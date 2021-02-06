@@ -1,2 +1,3 @@
-# github-actions-demo
-Learning and practicing Github actions
+# Tic Tac Toe Game
+
+Learn GitHub Actions through a fun little game.
